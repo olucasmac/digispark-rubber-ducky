@@ -1,4 +1,6 @@
-# AVISO: Apenas para fins educacionais!
+# PROJETO DESCONTINUADO. SCRIPT COMPROMETIDO!
+
+## AVISO: Apenas para fins educacionais!
 
 _Script criado para o Digispark que coleta senhas salvas do Google Chrome e as envia por e-mail!_
  
